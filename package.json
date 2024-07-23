@@ -2,7 +2,7 @@
     "name": "Thanh Nguyên",
     "version": "1.2.14",
     "description": "Mua File Bot Liên Hệ Facebook Thanh Nguyên",
-    "main": "mirai.js",
+    "main": "main.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
